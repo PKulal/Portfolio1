@@ -1,6 +1,14 @@
-# My Portfolio Website
+<div align="center">
+  <h1 align="center">Portfolio Website</h1>  
+    <img src="https://cdn.dribbble.com/users/1025112/screenshots/4744274/media/e4a2bd74793e72d7633a2d34928c2f2e.gif" alt="Portfolio GIF" />  
+</div>
+
 
 Welcome to my personal portfolio website! This repository contains the source code for my portfolio, which showcases my projects, skills, and contact information.
+
+
+
+
 
 ## Table of Contents
 
@@ -61,9 +69,9 @@ Check out the live demo of the portfolio website [here](https://pkulal.github.io
 
 If you have any questions or would like to connect, you can reach me at:
 
-- Email: [your-email@example.com](mailto:p8775333@gmail.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/praneethpkulal)
-- GitHub: [Your GitHub Profile](https://github.com/PKulal)
+- Email: [Praneeth](mailto:p8775333@gmail.com)
+- LinkedIn: [Praneeth](https://www.linkedin.com/in/praneethpkulal)
+- GitHub: [PKulal](https://github.com/PKulal)
 
 Thank you for visiting my portfolio website!
 
